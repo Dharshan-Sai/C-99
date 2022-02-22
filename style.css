@@ -1,0 +1,54 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+#header1 {
+    color: darkgreen;
+}
+
+#header4 {
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#header3 {
+    color: firebrick;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20;
+}
+
+#ressult {
+    width: 500px;
+    height: 400px;
+    border-color: aqua;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2, 0.2);
+}
+
+#ressult2 {
+    width: 500px;
+    height: 400px;
+    border-color: aqua;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2, 0.2);
+}
+
+#ressult3 {
+    width: 500px;
+    height: 400px;
+    border-color: aqua;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2, 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
